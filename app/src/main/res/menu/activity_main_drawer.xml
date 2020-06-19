@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/syllabus"
+            android:icon="@drawable/syllabus"
+            android:title="Syllabus" />
+        <item
+            android:id="@+id/old_questions"
+            android:icon="@drawable/old_question"
+            android:title="Old Questions" />
+        <item
+            android:id="@+id/solution"
+            android:icon="@drawable/solution"
+            android:title="Old Questions Solution" />
+        <item
+            android:id="@+id/exam_center"
+            android:icon="@drawable/exam_center"
+            android:title="Exam Center" />
+        <item
+            android:id="@+id/result"
+            android:icon="@drawable/result"
+            android:title="Result" />
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_share"
+                android:title="Share" />
+            <item
+                android:id="@+id/nav_send"
+                android:icon="@drawable/ic_send"
+                android:title="Contact Us" />
+            <item
+                android:id="@+id/nav_rate"
+                android:icon="@drawable/ic_rate"
+                android:title="Rate Us" />
+        </menu>
+    </item>
+
+    <item android:title="Other Applications">
+        <menu>
+            <item
+                android:id="@+id/bba_first_semester"
+                android:icon="@mipmap/ic_launcher"
+                android:title="BBA First Semester"/>
+            <item
+                android:id="@+id/bba_second_semester"
+                android:icon="@mipmap/ic_launcher"
+                android:title="BBA Second Semester" />
+            <item
+                android:id="@+id/bba_four_semsester"
+                android:icon="@mipmap/ic_launcher"
+                android:title="BBA Fourth semester" />
+            <item
+                android:id="@+id/bba_five_semsester"
+                android:icon="@mipmap/ic_launcher"
+                android:title="BBA Fifth semester" />
+            <item
+                android:id="@+id/bba_six_semsester"
+                android:icon="@mipmap/ic_launcher"
+                android:title="BBA Sixth semester" />
+            <item
+                android:id="@+id/bba_seven_semsester"
+                android:icon="@mipmap/ic_launcher"
+                android:title="BBA Seventh semester" />
+            <item
+                android:id="@+id/bba_eight_semsester"
+                android:icon="@mipmap/ic_launcher"
+                android:title="BBA Eighth semester" />
+        </menu>
+    </item>
+
+</menu>

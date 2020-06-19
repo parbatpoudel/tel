@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "888219159748",
+    "firebase_url": "https://bba-third-semister.firebaseio.com",
+    "project_id": "bba-third-semister",
+    "storage_bucket": "bba-third-semister.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:888219159748:android:0b7064aac748480e",
+        "android_client_info": {
+          "package_name": "com.example.last.bbathirdsemester"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "888219159748-ilgd2828cneec289kld9rfamjiot2osj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNfcMf71qgsJ4WxqzowHHsS82cJ3iyYBM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "888219159748-ilgd2828cneec289kld9rfamjiot2osj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

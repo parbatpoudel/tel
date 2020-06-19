@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.last.bbathirdsemester">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ourlogo"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".old_question_of_account_2015"
+            android:parentActivityName=".Old_question_of_account"></activity>
+        <activity android:name=".old_question_of_account_2016"
+            android:parentActivityName=".Old_question_of_account"/>
+        <activity android:name=".old_question_of_account_2017"
+            android:parentActivityName=".Old_question_of_account"/>
+        <activity android:name=".old_question_of_account_2018"
+            android:parentActivityName=".Old_question_of_account"/>
+        <activity android:name=".Old_question_of_account_2019" />
+        <activity
+            android:name=".Old_question_of_finance_2015"
+            android:parentActivityName=".Old_question_of_finance" />
+        <activity
+            android:name=".Old_question_of_finance_2016"
+            android:parentActivityName=".Old_question_of_finance" />
+        <activity
+            android:name=".Old_question_of_finance_2017"
+            android:parentActivityName=".Old_question_of_finance" />
+        <activity
+            android:name=".Old_question_of_finance_2018"
+            android:parentActivityName=".Old_question_of_finance" />
+        <activity
+            android:name=".Old_question_of_finance_2019"
+            android:parentActivityName=".Old_question_of_finance" />
+        <activity
+            android:name=".Old_question_of_statistics_2015"
+            android:parentActivityName=".Old_question_of_statistics" />
+        <activity
+            android:name=".Old_question_of_statistics_2016"
+            android:parentActivityName=".Old_question_of_statistics" />
+        <activity
+            android:name=".Old_question_of_statistics_2017"
+            android:parentActivityName=".Old_question_of_statistics" />
+        <activity
+            android:name=".Old_question_of_statistics_2018"
+            android:parentActivityName=".Old_question_of_statistics" />
+        <activity
+            android:name=".Old_question_of_statistics_2019"
+            android:parentActivityName=".Old_question_of_statistics" />
+        <activity
+            android:name=".Old_question_of_information_system_2015"
+            android:parentActivityName=".Old_question_of_information_system" />
+        <activity
+            android:name=".Old_question_of_information_system_2017"
+            android:parentActivityName=".Old_question_of_information_system" />
+        <activity
+            android:name=".Old_question_of_information_system_2016"
+            android:parentActivityName=".Old_question_of_information_system" />
+        <activity
+            android:name=".Old_question_of_information_system_2018"
+            android:parentActivityName=".Old_question_of_information_system" />
+        <activity
+            android:name=".Old_question_of_information_system_2019"
+            android:parentActivityName=".Old_question_of_information_system" />
+        <activity
+            android:name=".Information_system_chapter_eight"
+            android:parentActivityName=".Information_system_all_chapter" />
+        <activity
+            android:name=".Information_system_chapter_seven"
+            android:parentActivityName=".Information_system_all_chapter" />
+        <activity
+            android:name=".Information_system_chapter_six"
+            android:parentActivityName=".Information_system_all_chapter" />
+        <activity
+            android:name=".Information_system_chapter_five"
+            android:parentActivityName=".Information_system_all_chapter" />
+        <activity
+            android:name=".Information_system_chapter_four"
+            android:parentActivityName=".Information_system_all_chapter" />
+        <activity
+            android:name=".Information_system_chapter_three"
+            android:parentActivityName=".Information_system_all_chapter" />
+        <activity
+            android:name=".Information_system_chapter_two"
+            android:parentActivityName=".Information_system_all_chapter" />
+        <activity
+            android:name=".Information_system_chapter_one"
+            android:parentActivityName=".Information_system_all_chapter" />
+        <activity
+            android:name=".Solution_of_statistics"
+            android:parentActivityName=".Old_questions_solution_all_subject" />
+        <activity
+            android:name=".Solution_of_finance"
+            android:parentActivityName=".Old_questions_solution_all_subject" />
+        <activity
+            android:name=".Solution_of_account"
+            android:parentActivityName=".Old_questions_solution_all_subject" />
+        <activity
+            android:name=".Old_question_of_finance"
+            android:parentActivityName=".Old_questions_all_subject" />
+        <activity
+            android:name=".Old_question_of_information_system"
+            android:parentActivityName=".Old_questions_all_subject" />
+        <activity
+            android:name=".Old_question_of_account"
+            android:parentActivityName=".Old_questions_all_subject" />
+        <activity
+            android:name=".Old_question_of_statistics"
+            android:parentActivityName=".Old_questions_all_subject" />
+        <activity
+            android:name=".Old_question_of_business_communication"
+            android:parentActivityName=".Old_questions_all_subject" />
+        <activity
+            android:name=".Old_question_of_english_2015"
+            android:parentActivityName=".Old_question_of_business_communication" />
+        <activity
+            android:name=".Old_question_of_english_2016"
+            android:parentActivityName=".Old_question_of_business_communication" />
+        <activity
+            android:name=".Old_question_of_english_2017"
+            android:parentActivityName=".Old_question_of_business_communication" />
+        <activity
+            android:name=".Old_question_of_english_2018"
+            android:parentActivityName=".Old_question_of_business_communication" />
+        <activity
+            android:name=".Old_question_of_english_2019"
+            android:parentActivityName=".Old_question_of_business_communication" />
+        <activity
+            android:name=".English_chapter_seven"
+            android:parentActivityName=".Business_communication_unit_one" />
+        <activity
+            android:name=".English_chapter_six"
+            android:parentActivityName=".Business_communication_unit_one" />
+        <activity
+            android:name=".English_chapter_five"
+            android:parentActivityName=".Business_communication_unit_one" />
+        <activity
+            android:name=".English_chapter_four"
+            android:parentActivityName=".Business_communication_unit_one" />
+        <activity
+            android:name=".English_chapter_three"
+            android:parentActivityName=".Business_communication_unit_one" />
+        <activity
+            android:name=".English_chapter_two"
+            android:parentActivityName=".Business_communication_unit_one" />
+        <activity
+            android:name=".English_chapter_one"
+            android:parentActivityName=".Business_communication_unit_one" />
+        <activity
+            android:name=".Syllabus_of_business_statistics"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".Syllabus_of_business_finance"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".Syllabus_of_financial_accounting"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".Syllabus_of_information_system"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".Syllabus_of_business_communication"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".Formula_statistics_all_chapter"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".Formula_finance_all_chapter"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".Old_questions_solution_all_subject"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".Old_questions_all_subject"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".Syllabus_all_subject"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".Business_communication_unit_five"
+            android:parentActivityName=".Business_communication_all_chapter" />
+        <activity
+            android:name=".Business_communication_unit_four"
+            android:parentActivityName=".Business_communication_all_chapter" />
+        <activity
+            android:name=".Business_communication_unit_three"
+            android:parentActivityName=".Business_communication_all_chapter" />
+        <activity
+            android:name=".Business_communication_unit_two"
+            android:parentActivityName=".Business_communication_all_chapter" />
+        <activity
+            android:name=".Business_communication_unit_one"
+            android:parentActivityName=".Business_communication_all_chapter" />
+        <activity
+            android:name=".Information_system_all_chapter"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".Statistics_all_chapter"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".Formula_all_subject"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".Finance_all_chapter"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".Business_communication_all_chapter"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".Account_all_chapter"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
